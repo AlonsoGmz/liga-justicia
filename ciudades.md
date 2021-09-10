@@ -3,5 +3,5 @@
 1. Ciudad Gótica
 2. Metrópolis
 3. Pueblo Paleta
-4. Pueblo Samba
+4. Pueblo Kuka
 5. Pueblo Arena
